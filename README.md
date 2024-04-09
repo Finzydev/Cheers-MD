@@ -4,7 +4,7 @@
 ---
 
 ## Information
-> Hashira Bot adalah bot yang awalnya memakai base dari [Amelia-Botz](https://github.com/officialdittaz/Amelia-Botz/) .
+> Cheers Botz adalah bot yang awalnya memakai base dari [Amelia-Botz](https://github.com/officialdittaz/Amelia-Botz/) .
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Connect With Me
@@ -12,7 +12,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug atau error
-* Info Lebih Lanjut, Chat [Owner Ehanz](https://wa.me/6281316643491)
+* Info Lebih Lanjut, Chat [Owner Finzydev](https://wa.me/6285866103817)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -28,12 +28,11 @@
 
 ## Donate
 - [Saweria](https://)
-- [Dana](http://)
-- [Ovo](https://)
-- [Gopay](https://)
+- [Dana](https://link.dana.id/qr/89go7vdw)
+- [Gopay](https://telegra.ph/file/5f3fee8d9890a3537af95.jpg)
 
 # Official Group
-- [Hashira Botz](https://chat.whatsapp.com/Co1dxN1z7YGAJXxKter3Bn)
+- [Cheers Botz](https://chat.whatsapp.com/IYUnvRGWc1aEtPTbUVrAOh)
 
 # Thanks to
  <a href="https://github.com/hexagonz"><img src="https://https://github.com/hexagonz.png?size=100" width="100" height="100"></a> | [![FERDIZ](https://github.com/hexagonz.png?size=100)](https://github.com/hexagonz-afk) | [![RASHID](https://github.com/hexagonz.png?size=100)](https://github.com/hexagonz) 
@@ -51,6 +50,7 @@ Owner Amelia - Botz | For Help |
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hexagonz`](https://github.com/hexagonz)
 * [`Yogipw`](https://github.com/yogipw)
+* [`Finzydev`](https://github.com/Finzydev
 
 > Run Pake PM@ + COLOR
 
