@@ -8,7 +8,7 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Connect With Me
-[`Klik Disini`](https://wa.me/6281316643491) (https://wa.me/6285866103817)
+[`Klik Disini`]([https://wa.me/6285866103817])
 
 ## Bugs and Tester
 * Jika kamu menemukan bug atau error
@@ -27,7 +27,7 @@
 ```
 
 ## Donate
-- [Saweria](https://)
+- [Saweria]([https://](https://saweria.co/FinzydevOFC))
 - [Dana](https://link.dana.id/qr/89go7vdw)
 - [Gopay](https://telegra.ph/file/5f3fee8d9890a3537af95.jpg)
 
