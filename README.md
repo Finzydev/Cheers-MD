@@ -27,7 +27,7 @@
 ```
 
 ## Donate
-- [Saweria]([https://](https://saweria.co/FinzydevOFC))
+- [Saweria](https://](https://saweria.co/FinzydevOFC)
 - [Dana](https://link.dana.id/qr/89go7vdw)
 - [Gopay](https://telegra.ph/file/5f3fee8d9890a3537af95.jpg)
 
