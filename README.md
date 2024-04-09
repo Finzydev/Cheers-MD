@@ -8,7 +8,7 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Connect With Me
-[`Klik Disini`]([https://wa.me/6285866103817])
+[`Klik Disini`](https://wa.me/6285866103817)
 
 ## Bugs and Tester
 * Jika kamu menemukan bug atau error
